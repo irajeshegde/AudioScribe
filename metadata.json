@@ -1,0 +1,6 @@
+{
+  "name": "AudioScribe",
+  "description": "A local-first transcription application for Kannada and English audio with editable speaker labels, transcript review, and document export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
