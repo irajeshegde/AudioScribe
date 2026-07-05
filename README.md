@@ -1,6 +1,22 @@
-# ![AudioScribe](assets/logo.png?raw=true) AudioScribe
+<div align="center">
+
+![AudioScribe](assets/logo.png?raw=true)
+
+# AudioScribe
+
+[![React](https://img.shields.io/badge/React-19.0-61DAFB?style=flat-square&logo=react)](https://react.dev/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5.8-3178C6?style=flat-square&logo=typescript)](https://www.typescriptlang.org/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-4.1-06B6D4?style=flat-square&logo=tailwindcss)](https://tailwindcss.com/)
+[![Google Gemini](https://img.shields.io/badge/Google%20Gemini-API-4285F4?style=flat-square&logo=google)](https://ai.google.dev/)
+[![Express](https://img.shields.io/badge/Express-4.21-000?style=flat-square&logo=express)](https://expressjs.com/)
+
+Bilingual Kannada & English audio transcription with speaker-labeled editing and document export.
+
+</div>
 
 AudioScribe is a local-first web app for transcribing Kannada and English audio into editable, speaker-labeled transcripts. It uses Gemini for transcription, keeps job history in a local JSON file, and exports completed transcripts as text or Word-compatible documents.
+
+![AudioScribe Mockup](assets/mockup.png)
 
 > AudioScribe is intended for local and personal use. It is not production-hosting ready: there is no authentication, multi-user access control, rate limiting, hardened upload storage, or deployment security review.
 
