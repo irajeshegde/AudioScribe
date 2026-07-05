@@ -1,7 +1,5 @@
 <div align="center">
 
-![AudioScribe](assets/logo.png?raw=true)
-
 # AudioScribe
 
 [![React](https://img.shields.io/badge/React-19.0-61DAFB?style=flat-square&logo=react)](https://react.dev/)
